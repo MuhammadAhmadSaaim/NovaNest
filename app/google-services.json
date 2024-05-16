@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "971362506361",
+    "project_id": "novanest-chat-app",
+    "storage_bucket": "novanest-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971362506361:android:6b0e598be8af36812526a8",
+        "android_client_info": {
+          "package_name": "com.example.novanest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971362506361-u7q0205358l3getlhv3nun3gq9vsj2as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.novanest",
+            "certificate_hash": "c60e903cbca874ed9a15151dc9b3e560430ac174"
+          }
+        },
+        {
+          "client_id": "971362506361-5ofc6ml7p9l27gelavm0aptl1q4054t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa26jJEm1gW8rVbTHddJawcb9XrI6axQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971362506361-5ofc6ml7p9l27gelavm0aptl1q4054t8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971362506361-56bgm5iv2eja08bkpdhuoihc1du9rio7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novanest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
